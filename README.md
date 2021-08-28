@@ -1,11 +1,18 @@
 <!--profile-->
-- 👋 Hi, I’m @pikaybh
-- 👀 I’m interested in WebDev
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on <del>nobody, yet</del>
-- 📫 How to reach me :
-        e-mail : pikabh@naver.com
-        instagram : <a href="https://www.instagram.com/pikaybh/">@pikaybh</a>
+<ul>
+        <li>👋 Hi, I’m @pikaybh</li>
+        <li>👀 I’m interested in WebDev</li>
+        <li>🌱 I’m currently learning PHP</li>
+        <li>💞️ I’m looking to collaborate on <del>nobody, yet</del></li>
+        <li><p>📫 How to reach me : <br>
+        e-mail : pikabh@naver.com<br>
+        instagram : <a href="https://www.instagram.com/pikaybh/">@pikaybh</a></p></li>
+</ul>
+- 
+- 
+- 
+- 
+- 
 
 <!---
 pikaybh/pikaybh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
