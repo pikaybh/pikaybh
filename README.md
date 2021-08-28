@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @pikaybh
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on <del>nobody, yet</del>
+- 💞️ I’m looking to collaborate on <del>nothing, yet</del>
 - 📫 How to reach me : <a href="mailto:pikabh@naver.com">
                             <img 
                                 src="http://img.shields.io/badge/-Naver-brightgreen?style=flat&logo=Naver&link=mailto:pikabh@naver.com"
