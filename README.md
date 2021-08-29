@@ -1,5 +1,5 @@
 <!--profile-->
-- 👋 Hi, I’m @pikaybh
+- 👋 Hi, I’m <a href="https://github.com/pikaybh">@pikaybh</a>
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on <del>nothing, yet</del>
