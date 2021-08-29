@@ -2,12 +2,12 @@
 - 👋 Hi, I’m <a href="https://github.com/pikaybh">@pikaybh</a>
 - 👀 I’m interested in <a href="#">
                             <img 
-                                src="http://img.shields.io/badge/-HTML5-orange?style=flat&logo=HTML5&logoColor=white&link=#"
+                                src="http://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white&link=#"
                                 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
                         </a>
                         <a href="#">
                             <img 
-                                src="http://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white&link=#"
+                                src="http://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white&link=#"
                                 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
                         </a>
                         <a href="#">
