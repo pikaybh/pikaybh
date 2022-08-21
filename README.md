@@ -46,6 +46,9 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   </br>
+  TF
+  torch
+  Flask
   React
   RN
   Jekyll
@@ -63,6 +66,7 @@
           src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/pikaybh/"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
+  Blog
     
 </div>
 
