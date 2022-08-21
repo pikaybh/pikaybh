@@ -74,7 +74,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient&reversal=true&section=footer)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- Old Version
