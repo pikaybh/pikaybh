@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient)
 <!--profile-->
+
+<div align="center">
+  
+</div>
+
+![footer](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient&reversal=true&section=footer)
+
+<!---
 - 👋 Hi, I’m <a href="https://github.com/pikaybh">@pikaybh</a>
 - 👀 I’m interested in <a href="#">
                             <img 
@@ -52,10 +60,7 @@
                                 src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/pikaybh/"
                                 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
                         </a>
-
-![footer](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient&reversal=true&section=footer)
-
-<!---
+                        
 pikaybh/pikaybh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
