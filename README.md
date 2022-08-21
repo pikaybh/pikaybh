@@ -2,8 +2,20 @@
 <!--profile-->
 
 <div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikaybh&count_bg=%2300FFFF&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
   <h3>Welcome to my Github! 👋</h3>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikaybh&count_bg=%2300FFFF&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="mailto:pikabh@naver.com">
+      <img 
+          src="http://img.shields.io/badge/-Naver-brightgreen?style=flat&logo=Naver&logoColor=white&link=mailto:pikabh@naver.com"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="https://instagram.com/pikaybh">
+      <img 
+          src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/pikaybh/"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  Blog
   
   <h3>✨ Stack ✨</h3>
   <h4>OS&Platforms</h4>
@@ -57,24 +69,10 @@
   <h4>Tools</h4>
   Git, Github, Notion, VScode, pyCharm, anaconda, jupyter, colab
   
-  <h3>How to reach me 📫</h3>
-  <a href="mailto:pikabh@naver.com">
-      <img 
-          src="http://img.shields.io/badge/-Naver-brightgreen?style=flat&logo=Naver&logoColor=white&link=mailto:pikabh@naver.com"
-          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  <a href="https://instagram.com/pikaybh">
-      <img 
-          src="http://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/pikaybh/"
-          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  Blog
-  
   <h3>My Github Stats 📈</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient&reversal=true&section=footer)
 
@@ -134,4 +132,10 @@
                         
 pikaybh/pikaybh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 --->
