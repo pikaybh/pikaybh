@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikaybh&count_bg=%2300FFFF&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
-  <h3>Welcome to my Github! 👋</h3>
+  <h2>Welcome to my Github! 👋</h2>
   <a href="mailto:pikabh@naver.com">
       <img 
           src="http://img.shields.io/badge/-Naver-brightgreen?style=flat&logo=Naver&logoColor=white&link=mailto:pikabh@naver.com"
@@ -17,10 +17,10 @@
   </a>
   Blog
   
-  <h3>✨ Stack ✨</h3>
-  <h4>OS&Platforms</h4>
+  <h2>✨ Stack ✨</h2>
+  <h3>OS&Platforms</h3>
   Linux, Windows, GoormIDE, Rasbian, arduinoIDE
-  <h4>Languages&Skills</h4>
+  <h3>Languages&Skills</h3>
   <a href="#">
       <img 
           src="http://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white&link=#"
@@ -66,10 +66,10 @@
   Jekyll
   npm
   node
-  <h4>Tools</h4>
+  <h3>Tools</h3>
   Git, Github, Notion, VScode, pyCharm, anaconda, jupyter, colab
   
-  <h3>My Github Stats 📈</h3>
+  <h2>My Github Stats 📈</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
 </div>
