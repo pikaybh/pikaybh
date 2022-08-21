@@ -70,12 +70,8 @@
   Git, Github, Notion, VScode, pyCharm, anaconda, jupyter, colab
   
   <h3>My Github Stats 📈</h3>
-  <div style={display:"flex";}>
-    <div style={align: "center"; margin: "auto";}>
-      <img style={left: 0} src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
-      <img style={left: 0} src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
-    </div>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient&reversal=true&section=footer)
