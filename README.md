@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient)
 <!--profile-->
 - 👋 Hi, I’m <a href="https://github.com/pikaybh">@pikaybh</a>
 - 👀 I’m interested in <a href="#">
