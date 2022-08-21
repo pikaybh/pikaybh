@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikaybh&count_bg=%2300FFFF&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
-  <h2>Welcome to my Github! 👋</h2>
+  <h3>Welcome to my Github! 👋</h3>
   <a href="mailto:pikabh@naver.com">
       <img 
           src="http://img.shields.io/badge/-Naver-brightgreen?style=flat&logo=Naver&logoColor=white&link=mailto:pikabh@naver.com"
@@ -16,11 +16,14 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   Blog
+  </br>
+  </br>
   
-  <h2>✨ Stack ✨</h2>
-  <h3>OS&Platforms</h3>
+  <h3>✨ Stack ✨</h3>
+  <h4>OS&Platforms</h4>
   Linux, Windows, GoormIDE, Rasbian, arduinoIDE
-  <h3>Languages&Skills</h3>
+  </br>
+  <h4>Languages&Skills</h4>
   <a href="#">
       <img 
           src="http://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white&link=#"
@@ -66,10 +69,13 @@
   Jekyll
   npm
   node
-  <h3>Tools</h3>
+  </br>
+  <h4>Tools</h4>
   Git, Github, Notion, VScode, pyCharm, anaconda, jupyter, colab
+  </br>
+  </br>
   
-  <h2>My Github Stats 📈</h2>
+  <h3>My Github Stats 📈</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
 </div>
