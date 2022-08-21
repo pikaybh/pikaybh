@@ -20,10 +20,10 @@
   </br>
   
   <h3>✨ Stack ✨</h3>
-  <h4>OS&Platforms</h4>
+  <h4>💻 OS&Platforms 💻</h4>
   Linux, Windows, GoormIDE, Rasbian, arduinoIDE
   </br>
-  <h4>Languages&Skills</h4>
+  <h4>📚 Languages&Skills 📚</h4>
   <a href="#">
       <img 
           src="http://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white&link=#"
@@ -70,12 +70,12 @@
   npm
   node
   </br>
-  <h4>Tools</h4>
+  <h4>🛠️ Tools 🛠️</h4>
   Git, Github, Notion, VScode, pyCharm, anaconda, jupyter, colab
   </br>
   </br>
   
-  <h3>My Github Stats 📈</h3>
+  <h3>📈 My Github Stats 📈</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
 </div>
