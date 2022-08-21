@@ -74,6 +74,8 @@
 
 ![footer](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient&reversal=true&section=footer)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikaybh)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--- Old Version
 - 👋 Hi, I’m <a href="https://github.com/pikaybh">@pikaybh</a>
 - 👀 I’m interested in <a href="#">
