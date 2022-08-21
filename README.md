@@ -45,15 +45,17 @@
           src="http://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=PostgreSQL&logoColor=white&link=#"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
-  </br>
+  </br> <!--자신 있는 것들을 위로!-->
   TF
   torch
   Flask
   React
   RN
   Jekyll
+  npm
+  node
   <h4>Tools</h4>
-  Git, Github, Notion, VScode
+  Git, Github, Notion, VScode, pyCharm, anaconda, jupyter, colab
   
   <h3>How to reach me 📫</h3>
   <a href="mailto:pikabh@naver.com">
