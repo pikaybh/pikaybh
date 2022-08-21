@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient)
 <!--profile-->
 
-<div align="center" margin="auto">
+<div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikaybh&count_bg=%2300FFFF&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
   <h3>Welcome to my Github! 👋</h3>
@@ -70,9 +70,11 @@
   Git, Github, Notion, VScode, pyCharm, anaconda, jupyter, colab
   
   <h3>My Github Stats 📈</h3>
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
+  <div display="flex">
+    <div align="center" margin="auto">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
+    </div>
   </div>
 </div>
 
