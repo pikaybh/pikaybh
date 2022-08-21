@@ -72,8 +72,8 @@
   <h3>My Github Stats 📈</h3>
   <div display="flex">
     <div align="center" margin="auto">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
+      <img left=0 src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
+      <img left=0 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
     </div>
   </div>
 </div>
