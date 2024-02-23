@@ -60,7 +60,7 @@
           src="http://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=PostgreSQL&logoColor=white&link=#"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
-  </br> <!--자신 있는 것들을 위로!-->
+  </br> <!--자신 있는 것들을 위로!- ->
   TF
   torch
   Flask
@@ -78,7 +78,8 @@
   <h3>📈 My Github Stats 📈</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
-</div>-->
+</div>
+-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
