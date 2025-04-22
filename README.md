@@ -79,13 +79,10 @@
   -->
 
   <h2 align="center">A Research Engineer.</h2>
-
+  
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=pikaybh&label=Profile%20views&color=0e75b6&style=flat" alt="pikaybh" /> 
   </p>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats" alt="B.H Yoo's Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" alt="B.H Yoo's most used languages"/>
 
   <!--h1 align="center">Hi 👋, I'm Supriyo</h1>
   <h3 align="center">A Cyber-Security enthusiast.</h3>
@@ -210,6 +207,15 @@
       /> 
     </a> 
   </p>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats" 
+    alt="B.H Yoo's Github Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" 
+    alt="B.H Yoo's most used languages"
+  />
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?text=%&animation=fadeIn&type=waving&fontAlign=80&fontAlignY=80&fontSize=40&fontColor=d6ace6&color=timeGradient&reversal=true&section=footer)
