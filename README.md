@@ -214,6 +214,10 @@
       alt="B.H Yoo's Github Stats"
     />
     <img 
+      src="https://github-readme-stats-rho-pearl-67.vercel.app/api?username=pikaybh&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats" 
+      alt="B.H Yoo's Github Stats"
+    />
+    <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaybh&layout=compact&hide_border=true" 
       alt="B.H Yoo's most used languages"
     />
