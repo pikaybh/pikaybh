@@ -142,14 +142,32 @@
         height="40"
       /> 
     </a> 
-    <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> 
+    <!--
+    a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> 
       <img 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
         alt="c" 
         width="40" 
         height="40"
       /> 
-    </a> 
+    </a
+    --> 
+    <a href="https://nextjs.org" target="_blank" rel="noreferre">
+      <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+        alt="next.js" 
+        width="40" 
+        height="40"
+      />
+    </a>
+    <a href="https://nestjs.com" target="_blank" rel="noreferre">
+      <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+        alt="next.js" 
+        width="40" 
+        height="40"
+      />
+    </a>
     <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
       <img 
         src="https://devicon-website.vercel.app/api/c/original.svg"
@@ -205,11 +223,27 @@
         width="40" 
         height="40"
       /> 
-    </a--> 
+    </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
       <img 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
         alt="linux" 
+        width="40" 
+        height="40"
+      /> 
+    </a--> 
+    <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> 
+      <img 
+        src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" 
+        alt="ubuntu" 
+        width="40" 
+        height="40"
+      /> 
+    </a> 
+    <a href="https://www.kali.org" target="_blank" rel="noreferrer"> 
+      <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
+        alt="kali" 
         width="40" 
         height="40"
       /> 
