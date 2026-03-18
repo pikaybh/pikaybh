@@ -152,13 +152,11 @@
     </a> 
     <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
       <img 
-        src="https://devicon-website.vercel.app/api/c/original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
         alt="c" 
         width="40" 
         height="40"
       /> 
-              <!--src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"--> 
-
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
       <img 
