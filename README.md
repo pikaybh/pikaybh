@@ -160,7 +160,7 @@
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
       <img 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
         alt="c++" 
         width="40" 
         height="40"
